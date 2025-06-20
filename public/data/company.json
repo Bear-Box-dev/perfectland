@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name": "Perfectland Property Agent Co., Ltd",
+    "business": "Condominium rental agency specializing in premium Bangkok locations",
+    "established": "2018",
+    "license": "Real Estate License No. 1234567",
+    "contact": {
+      "email": "Sales@perfectland.co.th",
+      "phone": "0894301155",
+      "address": "123 Sukhumvit Road, Watthana, Bangkok 10110, Thailand",
+      "website": "www.perfectland.co.th"
+    },
+    "serviceAreas": [
+      {
+        "name": "Sukhumvit",
+        "description": "Bangkok's premier international district with luxury shopping, fine dining, and excellent connectivity via BTS Skytrain.",
+        "highlights": ["EmQuartier Mall", "Terminal 21", "Benjasiri Park", "International restaurants"]
+      },
+      {
+        "name": "Ekkamai",
+        "description": "Trendy district popular with young professionals, known for its vibrant nightlife and creative spaces.",
+        "highlights": ["Gateway Ekamai", "Ekkamai BTS", "Art galleries", "Trendy cafes and bars"]
+      },
+      {
+        "name": "Asoke",
+        "description": "Central business district with excellent transport links, perfect for business professionals.",
+        "highlights": ["Terminal 21 Asoke", "Exchange Tower", "BTS & MRT interchange", "Business centers"]
+      },
+      {
+        "name": "Promphong",
+        "description": "Upscale residential area offering a perfect balance of urban convenience and tranquil living.",
+        "highlights": ["EmQuartier", "Benjasiri Park", "Fine dining", "Luxury shopping"]
+      }
+    ],
+    "targetMarkets": [
+      "International expatriates",
+      "Japanese business professionals",
+      "European executives",
+      "Young professionals",
+      "Corporate relocations"
+    ],
+    "services": [
+      "Condominium rental services",
+      "Property viewing arrangements",
+      "Lease negotiation and documentation",
+      "Move-in assistance and support",
+      "Ongoing tenant support",
+      "Property management consulting"
+    ],
+    "whyChooseUs": [
+      "Specialized expertise in Bangkok's premium districts",
+      "Multilingual support (Thai, English, Japanese)",
+      "Extensive portfolio of verified properties",
+      "Personalized service for international clients",
+      "In-depth knowledge of local market conditions",
+      "Professional after-sales support"
+    ]
+  }
+}

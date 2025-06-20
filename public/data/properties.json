@@ -1,0 +1,259 @@
+{
+  "properties": [
+    {
+      "id": "prop-001",
+      "name": "Noble BE33",
+      "location": "Sukhumvit",
+      "address": "Sukhumvit 33, Watthana, Bangkok",
+      "price": 45000,
+      "currency": "THB",
+      "size": 45,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "floor": 18,
+      "yearBuilt": 2020,
+      "description": "Modern luxury condominium in the heart of Sukhumvit. Perfect for professionals and expatriates seeking premium living in Bangkok's most prestigious district.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center", 
+        "24hr Security",
+        "Sky Lounge",
+        "Garden",
+        "Parking",
+        "Near BTS"
+      ],
+      "images": [
+        "/images/properties/noble-be33-1.jpg",
+        "/images/properties/noble-be33-2.jpg",
+        "/images/properties/noble-be33-3.jpg"
+      ],
+      "mainImage": "/images/properties/noble-be33-main.png",
+      "nearbyTransport": "Phrom Phong BTS (3 min walk)",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "prop-002", 
+      "name": "The Emporio Place",
+      "location": "Sukhumvit",
+      "address": "Sukhumvit 24, Khlong Toei, Bangkok",
+      "price": 55000,
+      "currency": "THB",
+      "size": 52,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "floor": 25,
+      "yearBuilt": 2019,
+      "description": "Elegant high-rise condominium offering stunning city views and premium amenities. Located in the vibrant Sukhumvit area with easy access to shopping and dining.",
+      "amenities": [
+        "Infinity Pool",
+        "Fitness Center",
+        "Concierge Service",
+        "Sky Garden",
+        "Library",
+        "Parking",
+        "Near BTS"
+      ],
+      "images": [
+        "/images/properties/emporio-place-1.png",
+        "/images/properties/emporio-place-2.jpg",
+        "/images/properties/emporio-place-3.jpg"
+      ],
+      "mainImage": "/images/properties/emporio-place-main.jpg",
+      "nearbyTransport": "Phrom Phong BTS (5 min walk)",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "prop-003",
+      "name": "Rhythm Ekkamai",
+      "location": "Ekkamai",
+      "address": "Sukhumvit 63, Watthana, Bangkok",
+      "price": 38000,
+      "currency": "THB",
+      "size": 42,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "floor": 12,
+      "yearBuilt": 2018,
+      "description": "Contemporary condominium in trendy Ekkamai district. Perfect for young professionals who enjoy the area's vibrant nightlife and dining scene.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center",
+        "24hr Security",
+        "Rooftop Garden",
+        "Co-working Space",
+        "Parking"
+      ],
+      "images": [
+        "/images/properties/rhythm-ekkamai-1.webp",
+        "/images/properties/rhythm-ekkamai-2.jpg",
+        "/images/properties/rhythm-ekkamai-3.webp"
+      ],
+      "mainImage": "/images/properties/rhythm-ekkamai-main.jpeg",
+      "nearbyTransport": "Ekkamai BTS (2 min walk)",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "prop-004",
+      "name": "The ESSE Asoke",
+      "location": "Asoke",
+      "address": "Asoke-Ratchada Road, Watthana, Bangkok",
+      "price": 62000,
+      "currency": "THB",
+      "size": 58,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "floor": 30,
+      "yearBuilt": 2021,
+      "description": "Ultra-modern luxury condominium in Bangkok's central business district. Ideal for executives and business professionals working in the Asoke area.",
+      "amenities": [
+        "Infinity Pool",
+        "Fitness Center",
+        "Concierge Service",
+        "Business Center",
+        "Sky Bar",
+        "Valet Parking",
+        "Near BTS & MRT"
+      ],
+      "images": [
+        "/images/properties/esse-asoke-1.jpg",
+        "/images/properties/esse-asoke-2.jpg",
+        "/images/properties/esse-asoke-3.jpg"
+      ],
+      "mainImage": "/images/properties/esse-asoke-main.webp",
+      "nearbyTransport": "Asoke BTS/MRT (1 min walk)",
+      "available": true,
+      "featured": true
+    },
+    {
+      "id": "prop-005",
+      "name": "PARK 24",
+      "location": "Promphong",
+      "address": "Sukhumvit 24, Khlong Toei, Bangkok",
+      "price": 48000,
+      "currency": "THB",
+      "size": 48,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "floor": 20,
+      "yearBuilt": 2019,
+      "description": "Sophisticated condominium in prestigious Promphong area. Features park views and premium facilities, perfect for discerning international residents.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center",
+        "24hr Security",
+        "Garden View",
+        "Library",
+        "Parking",
+        "Near BTS"
+      ],
+      "images": [
+        "/images/properties/park24-1.jpg",
+        "/images/properties/park24-2.jpg", 
+        "/images/properties/park24-3.jpg"
+      ],
+      "mainImage": "/images/properties/park24-main.jpg",
+      "nearbyTransport": "Promphong BTS (4 min walk)",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "prop-006",
+      "name": "Via 49",
+      "location": "Promphong",
+      "address": "Sukhumvit 49, Watthana, Bangkok",
+      "price": 52000,
+      "currency": "THB",
+      "size": 55,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "floor": 15,
+      "yearBuilt": 2020,
+      "description": "Spacious 2-bedroom condominium in quiet Promphong area. Perfect for families or couples seeking more space and tranquility while staying connected to the city.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center",
+        "Children's Pool",
+        "Garden",
+        "BBQ Area",
+        "Parking",
+        "Near BTS"
+      ],
+      "images": [
+        "/images/properties/via49-1.jpg",
+        "/images/properties/via49-2.jpg",
+        "/images/properties/via49-3.jpg"
+      ],
+      "mainImage": "/images/properties/via49-main.jpg", 
+      "nearbyTransport": "Thong Lo BTS (6 min walk)",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "prop-007",
+      "name": "The ADDRESS Asoke",
+      "location": "Asoke",
+      "address": "New Ratchadapisek Road, Huai Khwang, Bangkok",
+      "price": 42000,
+      "currency": "THB",
+      "size": 40,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "floor": 22,
+      "yearBuilt": 2017,
+      "description": "Modern condominium with excellent connectivity in Asoke business district. Ideal for professionals working in the area with easy access to both BTS and MRT.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center", 
+        "24hr Security",
+        "Meeting Room",
+        "Laundry",
+        "Parking",
+        "Near BTS & MRT"
+      ],
+      "images": [
+        "/images/properties/address-asoke-1.jpg",
+        "/images/properties/address-asoke-2.webp",
+        "/images/properties/address-asoke-3.jpg"
+      ],
+      "mainImage": "/images/properties/address-asoke-main.jpg",
+      "nearbyTransport": "Asoke BTS/MRT (3 min walk)",
+      "available": true,
+      "featured": false
+    },
+    {
+      "id": "prop-008",
+      "name": "Edge Sukhumvit 23",
+      "location": "Sukhumvit",
+      "address": "Sukhumvit 23, Watthana, Bangkok",
+      "price": 46000,
+      "currency": "THB",
+      "size": 44,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "floor": 16,
+      "yearBuilt": 2018,
+      "description": "Stylish boutique condominium in prime Sukhumvit location. Features contemporary design and premium finishes, ideal for sophisticated urban living.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center",
+        "24hr Security",
+        "Rooftop Terrace",
+        "Lounge",
+        "Parking",
+        "Near BTS"
+      ],
+      "images": [
+        "/images/properties/edge-sukhumvit-1.jpg",
+        "/images/properties/edge-sukhumvit-2.jpg",
+        "/images/properties/edge-sukhumvit-3.JPEG"
+      ],
+      "mainImage": "/images/properties/edge-sukhumvit-main.png",
+      "nearbyTransport": "Asoke BTS (5 min walk)",
+      "available": true,
+      "featured": false
+    }
+  ]
+}
